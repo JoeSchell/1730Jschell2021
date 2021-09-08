@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jschell1730ex1b", "Jschell1730ex1b\Jschell1730ex1b.csproj", "{E3574545-D1A0-463C-9618-5A5BF3F827B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jschell1c1", "Jschell1c1\Jschell1c1.csproj", "{2548BA56-E70E-4782-AB5A-3F3D21AEF06C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E3574545-D1A0-463C-9618-5A5BF3F827B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3574545-D1A0-463C-9618-5A5BF3F827B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3574545-D1A0-463C-9618-5A5BF3F827B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2548BA56-E70E-4782-AB5A-3F3D21AEF06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2548BA56-E70E-4782-AB5A-3F3D21AEF06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2548BA56-E70E-4782-AB5A-3F3D21AEF06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2548BA56-E70E-4782-AB5A-3F3D21AEF06C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
